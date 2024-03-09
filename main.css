@@ -1,0 +1,30 @@
+table, th, td {
+    border: 1px solid black;
+
+  }
+.header {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+
+}
+.sub-header {
+    font-weight: bold;
+    text-align: center;
+}
+.caption {
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+.outer-border {
+    width:fit-content;
+    border: 1px solid red;
+    padding: 5px 5px 5px 5px;
+
+}
+.footer {
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
